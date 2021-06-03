@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true discoverie of faith: and a brief manifestation of the ground upon which we stand, to those who desire to know it. With a declaration why we cannot repair the idolls temples, nor pay wages to a clerk. Also an answer to severall queries put forth by one John Reyner.</title>
+            <author>Naylor, James, 1617?-1660.</author>
+         </titleStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89856</idno><idno type="EEBO-CITATION">99863104</idno>
+  <idno type="VID">115286</idno>
+  <idno type="EEBO-PROQUEST">2240894916</idno>
+  
+            <idno type="STC">Wing N323</idno>
+            <idno type="STC">Thomason E848_15</idno>
+            <idno type="STC">ESTC R202992</idno>
+            <idno type="PROQUEST">99863104</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99863104e"/>
+            <note>(EEBO-TCP ; phase 2, no. A89856)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115286)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 128:E848[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true discoverie of faith: and a brief manifestation of the ground upon which we stand, to those who desire to know it. With a declaration why we cannot repair the idolls temples, nor pay wages to a clerk. Also an answer to severall queries put forth by one John Reyner.</title>
+                  <author>Naylor, James, 1617?-1660.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Giles Calvert, at the Black-Spread-Eagle neer the west end of Pauls,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Iames Nayler.</note>
+                  <note>A reply to an unidentified work by Reyner.</note>
+                  <note>Annotation on Thomason copy: "July 17".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Reyner, J. --  (John), b. 1624 --  Early works to 1800.</term>
+               <term type="topical_term">Society of Friends --  Apologetic works --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115286:1"/>
+            <p>A True DISCOVERIE OF FAITH: AND A Brief Manifestation of the <hi>Ground</hi> upon which we stand, to those who desire to know it.</p>
+            <p>WITH A DECLARATION Why we cannot repair the Idolls Temples, Nor pay wages to a CLERK.</p>
+            <p>Also an ANSWER to severall QUERIES put forth by one JOHN REYNER.</p>
+            <p>LONDON, Printed for Giles Calvert, at the Black-Spread-Eagle neer the west end of Pauls, 1655.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:115286:2"/>
+            <pb n="1" facs="tcp:115286:2"/>
+            <head>A true discovery of Faith: and a briefe manifestation of the ground upon which we stand, to those who desire to know it: with a Declaration why we cannot repair the Idols Temples nor pay Wages to a Clerk.</head>
+            <head>Also an Answer to severall <hi>Queries,</hi> put forth by one <hi>John Reyner</hi> I. N.</head>
+            <opener>
+               <salute>To all the faithless Generation of the World, and to all who desire to know in what Faith and hope we live, and what hope we deny.</salute>
+            </opener>
+            <p>THat Faith which we own and witness, is that which stands <note place="margin">
+                  <hi>Iohn</hi> 1. 9. <hi>Iohn</hi> 8. 12.</note> in Jesus Christ the everlasting Covenant of Light, <hi>who is the Light of the world, and hath enlightned every one that comes into the world,</hi> and this light we believe and follow, and by this we are lead out of all the wayes, works, and worships of this dark world, and the effects of this light we witness, by faith, and by this faith we do deny all who say this light is not sufficient without the help and teachings of man to lead and guide <note place="margin">
+                  <hi>Iohn</hi> 10. 4, 5. 2 <hi>Tim.</hi> 4. 5.</note> in all the wayes of God, and all such we deny, for these are they who know not the voice of Christ, and therefore hear the stranger and hireling, who heap up teachers, having itching ears, who cannot endure sound Doctrine, and in this Christ we believe, who is our life and salvation, and all them we deny and their faith, who say they have faith, but their life is not the life of Christ, but lives in sin, and worldly pleasure, and say they can<g ref="char:EOLhyphen"/>not
+<pb n="2" facs="tcp:115286:3"/> be saved from their sin in this world, but in part, and this faith we deny <note place="margin">2 <hi>Cor.</hi> 4. 10, 11. <hi>Iohn</hi> 1. 3. 8. <hi>Heb.</hi> 7. 25.</note> and them, for these are they who deny the end of Christs comming in the flesh, who cannot believe that Christ is able to save to the uttermost all that come unto him, and this faith is reprobate, and these deny the Lord that bought them, and have made shipwrack of faith, and a good cons<g ref="char:EOLhyphen"/>cience, and makes the blood of Christ of none effect to them who are not <note place="margin">1 <hi>Tim.</hi> 1. 19.</note> cleansed by it, and all them and their faith we deny, who say they believe and know the wil of God, but they have not power, but that Christ in which we believe, is the great power of God to salvation in all that be<g ref="char:EOLhyphen"/>lieve; <note place="margin">
+                  <hi>Rom.</hi> 1. 4. 16.</note> and who hath this Christ hath power, and in him we have power to do the wil of God; but these are they who know not Christ nor his power, <note place="margin">2 <hi>Tim.</hi> 3. 5.</note> but runs after men into notions and forms, but denies the power, and from all such we turn away, for such knows not him in them, who is greater than he that is in the world, but are willing to serve sin to be led captive at the Devils will, not minding the light and power of Christ to be gui<g ref="char:EOLhyphen"/>ded by it, and then would seem to cast the fault on God, as though he had given a Christ which is not able to set them free til after death, and these are they which put him to open shame, whose faith and profession we deny; and we deny all who say they have faith in Christ, and yet their righteousness is not perfect, but this faith we witness, that receives the <note place="margin">
+                  <hi>Rom.</hi> 5. 17. <hi>Rom.</hi> 3. 22.</note> righteousness of God, even the free gift of righteousness by Jesus Christ, and this is perfect, which is the righteousness of faith, and all who have not this righteousness are in the selfe-righteous, which is not perfect; and <note place="margin">
+                  <hi>Rom.</hi> 10. 3, 4. <hi>Rom.</hi> 3. 27.</note> these come short of the righteousness of God, and would establish their own righteousness; and these are the boasters which justifie themselves, &amp; despise others, but by the righteousness of faith is boasting excluded, and here is no justifying of selfe, but denying selfe, and self-righteousness, and <note place="margin">
+                  <hi>Phil.</hi> 3. 9. <hi>Phil.</hi> 1. 11.</note> exalting the righteousness of God, which is perfect, which is in Christ Je<g ref="char:EOLhyphen"/>sus, who is made to us righteousness and sanctification; and by this faith we do deny all who say they have <hi>Christ,</hi> and have not this righteousness, but whose righteousness is imperfect, and that <hi>Christ</hi> and that righteousness we deny which is not perfect, and witness that Christ in which we are made the righteousness of God; and this Christ is our righteousness and perfecti<g ref="char:EOLhyphen"/>on, and this faith we own and witness, which is not a talk of faith as the <note place="margin">
+                  <hi>Iam.</hi> 2. 2<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Eph.</hi> 2. 10.</note> worlds professors, who say they have faith but are dead in sin, and cannot witness the work of God in them; but that faith we own which is lively, by which the work of God is witnessed in us, working our sin, and by which we are his workmanship; created in Christ Jesus unto good works, and this faith we witness that overcomes the world and the devil, and all you we deny, who have a profession in the world, and in whom the works of <note place="margin">
+                  <hi>Iohn</hi> 1. 5. 4. <hi>Gal.</hi> 1. 4. <hi>i. Iohn</hi> 3. 3. <hi>Heb.</hi> 6. 19.</note> the devil are brought forth, and their faith and hope we deny, who say they hope to be saved, but live in sin, making a profession, and this is the hope of the hypocrite, which shall perish, and not the hope of Christ, for he that hath this hope of Christ purifyeth himselfe, even as he is pure, and
+<pb n="3" facs="tcp:115286:3"/> this hope and faith we own, which purifies the heart, and enters into the <note place="margin">
+                  <hi>Rom.</hi> 10. 8.</note> place of holyness within the vail, but that which is without holyness we deny, which is not in <hi>Christ,</hi> but in a vain minde, and we deny all who say they have faith and <hi>Christ,</hi> and yet their word and light is without them, for that word we witness which is nigh in the heart, and this is the word of faith which the Apostles preached, and he that hath Christ or faith, hath this word which is <hi>Christ</hi> the light, not in letter, but in spirit, and all them <note place="margin">
+                  <hi>Heb.</hi> 8. i0. ii.</note> we deny, whose Law is without and morall, and that law we witness which is spirituall, written in the heart, and this law is perfect and endures for e<g ref="char:EOLhyphen"/>ver; <note place="margin">
+                  <hi>Heb.</hi> 7. i9.</note> and all the changeable lawes we deny, and all whose law is without we see to be in the old covenant, of works which made nothing perfect, &amp; the self-righteousness which is filthy rags, and by the light of Christ are we convinced of that righteousness not to be of faith, therefore whose faith and works stand here, them we deny, and see them all worshipping with<g ref="char:EOLhyphen"/>out the new-covenant in the oldness of the Letter, whose Law is without, <note place="margin">1 <hi>Cor.</hi> i2. i3. 1 <hi>Cor.</hi> 14.</note> and their Light without, their word without, their Church without, their Baptisme, Prayers, and singing without, their Christ without, their righ<g ref="char:EOLhyphen"/>teousnes without, &amp; so their faith without, all which we witness to be within and within we worship in newness of the spirit, and we see all that are with<g ref="char:EOLhyphen"/>out God and his righteousness to be in the world, and strangers to the co<g ref="char:EOLhyphen"/>venant of grace, and that faith and worship we deny, which God denies, <note place="margin">
+                  <hi>Iohn.</hi> 4. 23, 24.</note> who seeks such worshippers as worship in spirit and truth, and this faith &amp; worship we own, not known to the world, and therefore hated.</p>
+            <div type="part">
+               <pb n="4" facs="tcp:115286:4"/>
+               <head>To those who are called Papists (and others) who desires to know our ground:</head>
+               <p>THe ground on which we are, is that upon which the Prophets and Apostles, and all the holy men of God ever were, and on that foun<g ref="char:EOLhyphen"/>dation are we builded; Jesus Christ himselfe who is the light of the world, which hath enlightned every one that cometh into the world, being the chiefe Corner stone, which light of Christ is one in all conscien<g ref="char:EOLhyphen"/>ces, by which we are led out of all the wayes of darkness into the Light of Life, which life is in the Spirit, contrary to all the former lusts and plea<g ref="char:EOLhyphen"/>sures which we lived in while we walked in the flesh, after the course of this world, following the corrupt practises and precepts of men, and in this Light which leads us out of all our own wayes and wills, is the Cross of Christ revealed, who came not to do his own will but the wil of him that sent him, which Cross is not carnall but spirituall, contrary to that nature which makes carnall crosses, who are out of the light and doctrine of Christ, in their own wils and imaginations, whose life is in the world, &amp; their worship in these carnall things and rudiments; but by this Cross are we crucified unto the world and all carnall worships, and they to us, so we being dead to that wherein wee were held; <hi>(viz.)</hi> the rudiments of the world, by this light and power of Christ are we raised up to serve the Lord in newness of lite and spirit, not in oldness of the Letter, and this light of Christ by which we are led into this spirituall knowledg and worship of God, in the condemnation of the world, who walk contrary to it, notwith<g ref="char:EOLhyphen"/>standing all their carnall worships; and this Light is that in all your con<g ref="char:EOLhyphen"/>sciences which shews your evil deeds.</p>
+               <div type="section">
+                  <head>Concerning the repair of Idolls Temples.</head>
+                  <p>Is this your Reformation you that rule in this Nation? who say you have denyed the Pope, and put down the Bishops, and are you repairing the I<g ref="char:EOLhyphen"/>dolls Temples which your fathers have consecrated to their Idol Gods, and not only so, but are you forcing your Brethren, whom God hath called out of them, to return back with you to repair what God is about to destroy? and if they cannot joyne with you herein, you take the spoyle of their goods by force, and yet you say you are reforming, and the Scripture is your rule; but what command or example have you in Scripture for these things? when the Lord commanded a Temple in the old Covenant to be built, <note place="margin">1 <hi>Chro.</hi> 25. <hi>Ezid.</hi> 7. 13. 16.</note> were any forced to that work but whose hearts he stirted up freely to offer themselves? and wil you force the believers in the new Covenant to repair
+<pb n="5" facs="tcp:115286:4"/> your high places, which God never commanded? here you are out of the rule of the Scripture, and Saints practise, which never did such a thing; nay, which of the heathen did ever force the believers after they were come out from their worships, to repair their Idols Temples? &amp; herein you exceed the heathen in your wil worships; nay, do you act herein as men of reason? is it not reason that Baals worshippers should repair Baals Temple? or would reason compel them to repair with you, who cannot worship with you? and <note place="margin">1 <hi>Chr.</hi> 20. 22. 24</note> is this your zeal to your God to offer a sacrifice to him of other mens cost? this the worshippers of the living God would never do, for he hates rob<g ref="char:EOLhyphen"/>bing for burnt offerings, and accepts nothing but what's of faith and not of force; is he a God you worship herein? and hath he no way to uphold his house but by a carnall law, and taking mens goods by force? let your <note place="margin">
+                        <hi>Iud.</hi> 6. 31, 32.</note> God plead for himself against <hi>terubbaal,</hi> who hath thrown down his Alters &amp; wil not repair his Temples, for we that worship the living God are brought to worship him in Temples made without hands, whose maker, builder, and upholder is God, and not man, and here they that freely receive, free<g ref="char:EOLhyphen"/>ly offer; and now you that say you are christians, honestly consider these things, first as christians, have not other as good ground both from Scrip<g ref="char:EOLhyphen"/>ture and in conscience to force you to repair the houses they meet in, as you have to force them to repair your high places which God hath forbid<g ref="char:EOLhyphen"/>den? Secondly, do you as you would be done unto by others, when you spoyle their goods to repair your Idols Temple, which they cannot do, nor worship therein but sin against God? Thirdly, do you deal like christians to force them to repair your Idols Temples, when you wil not allow to speak a word of truth therein from God, but beat, shamefully entreat, and hale them to prison? Fourthly, did ever any believers after they were cal<g ref="char:EOLhyphen"/>led out of the Jewish Synagogues and Temples, return back again to re<g ref="char:EOLhyphen"/>pair them, or worship in them because of conveniency? Fifthly, if <hi>Ierobo<g ref="char:EOLhyphen"/>am</hi>
+                     <note place="margin">1 <hi>King.</hi> 12 29, 30.</note> the Son of <hi>Nebat</hi> made Israel to sin in drawing them from the Temple at Jerusalem which was but the figure, to worship at his high places, then how far do you exceed him, who draws people from the Spirituall sub<g ref="char:EOLhyphen"/>stance, <note place="margin">
+                        <hi>Iohn</hi> 4. 21.</note> the Temple made without hands, to worship in your high places which Christ hath forbidden?</p>
+               </div>
+               <div type="section">
+                  <pb n="6" facs="tcp:115286:5"/>
+                  <head>Concerning Clerk-wages.</head>
+                  <p>WHereas we are sued at Law for Clerk-wages, which they call Church-dues; the Church of God we own, &amp; what is due unto it we may not deny, but for any such officer in the church as a clerk to say <hi>Amen,</hi> or to learn people to sing <hi>Davids</hi> experiences, praiers, &amp; tears, &amp;c. we find no such Officer appointed by Christ, ever maintained by his saints in his church, but have been set up since by the Pope and Bishops, both which we deny and all their Officers, set up by the wil of man, contrary to the example of Christ, and his Church; such we dare not maintain, and though we suffer the spoyling of our goods, yet it is not as evil doers, but following the example of Christ and his church, herein denying the Pope-Bishops, and all their rabble of officers they have set up without Christ, and contrary to him in their inventions, and it is not the love of money or riches that moves us to it, the earth is the Lords, and the fulness there<g ref="char:EOLhyphen"/>of, nor do we it in opposition to any authority, but in obedience to Christ we do it, and dare not maintain such as he never set up, for we find in the Scripture when he ascended, he appointed officers in his Church, and he gave some Apostles, and some Prophets, and some Evangelists, and some Pastors and Teachers, and those were for the perfecting of the Saints, but we find not he gave a Clerk, and therefore may not own what Christ ne<g ref="char:EOLhyphen"/>ver gave, nor add Officers to his Church which he never appointed, but if either the Magistrates, or ye who calls your selves Ministers, or your clerks, can instance in the Scripture any such Officer in the church of <hi>Christ</hi> appointed by him or his Apostles, or any that he ever sent, we shal willing<g ref="char:EOLhyphen"/>ly own and maintain them, but not being convinced by the Law of <hi>Christ,</hi> or from the Scripture, we chuse rather to suffer the violence ofmen, &amp; follow <hi>Christ,</hi> than to make Shipwrack of faith and a pure conscience, and so deny <hi>Christ</hi> for pleasing of men, and saving our estates.</p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="7" facs="tcp:115286:5"/>
+               <head>An answer to several queries, put forth by one Iohn Reyner, living about Wakefield.</head>
+               <p>FRiend: To thee a few words in answer to thy paper and queries to the light in thy conscience, that with it thou may see thy confusion and blindness, and read thy self out of the light of God, as thou art made to confess in thy paper, that there are many things in our writings, which to thee are dark, wherein thou appears to be a child of darkness, and hast not the spirit of judgment to judge of light and darkness, but art unlearned and so wrests our writings to thy own destruction, as such as thou alwaies did the writings of the Saints; and thou slanderer broachest out many high words against the truth, calling it delusion, blatphemie, and many such envious speeches, but doth not make it appear wherein, and here in secret thou smiteit, and art manifest whom thou servest, and what seed thou art of, with the light thou art seen, thy compass and Race, and where<g ref="char:EOLhyphen"/>fore thou art raised up, against whom are you gathered, and why do you rage you heathen.</p>
+               <p>
+                  <hi>Qu.</hi> 1. Thou askest if we disown all the ministry of England, or only the corrupt and scandalous part.</p>
+               <p>
+                  <hi>Ans.</hi> We disown all that are called of men masters, love chiefe places in the Assemblies, lay heavie burdens on the people, that say, near the word of the Lord, when he never spoke to them; that say they have a g f-, and take money for it, that are proud and covetous, walk not as Christ and his Apostles walked, and all who do not, we judge to be corrupt and scan<g ref="char:EOLhyphen"/>dalous: now who are not blind may see whom we disown.</p>
+               <p>
+                  <hi>qu.</hi> 2. Why do you not distinguish between the piecious and the vile: why do you rather interrupt and oppose the godly part of the ministry, than the prophane, loose, and scandalous: why do you most oppose those that are most enininent for piery.</p>
+               <p>
+                  <hi>Ans.</hi> Precious and godly we own, and do not interrupt, but thou which calls those god like, of precious who walks in wayes fore-mentioned which Christ cryed wo against, art blind, and puts evil for good, Darkness for light, and the wo is to thee also: now the reason why we are sent most to discover those who have covered themselves with the finest words &amp; forms is, because the day is come, &amp; the brightness of Christ is come in his saints, reveling the man of sin, wherever he is hidden, &amp; in these he is most hidden and doth most deceive the simple, for in drunken swearing priests, &amp; such
+<pb n="8" facs="tcp:115286:6"/> as are gross in open practise; he is revealed already, and all may see it, but in thee there he acts yet in a mystery, pleading for, and upholping a king<g ref="char:EOLhyphen"/>dome of sin, under the pretence of piety, repentance, and selfe denyall, wresting that which holy men spoke to lead people out of sin, this they use to make people believe they can never be free from sin, and this is the man of sin, and now must be revealed, and therefore all his Kingdome rages.</p>
+               <p>
+                  <hi>qu.</hi> 3. Why do you judg and condemnthe innocent with the wicked? ma<g ref="char:EOLhyphen"/>ny M<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nisters that preach in Steeple houses, are far from these calumnies which yee heap upon them; all miniscers do not say the steeple-house is the Church of God, or the Temple of God;all ministers do not say the Let<g ref="char:EOLhyphen"/>ter is the Word, or the Letter is the Light; all Ministers do not see their own things more than the things of Christ: all ministers do not preach meerly for hire, &amp;c.</p>
+               <p>
+                  <hi>Ans.</hi> We do not charge the words fore-mentioned upon them all, but it is the thing they are guilty of, though they dilown the words, for although all do not say the Steeple-house is the Church, the Letter is the word, the Letter is the Light, yet do they not all worship in the Idols Temple, which all the belivers denyed and did not practise? and have they any immediate word or light to hold forth to the people but the letter? but the Apostles denyed to be ministers of the letter, but of the spirit, and though they say they do not seek their own things more than the things of Christ, or preach meerly for hire, yet are they such, as every one seeks for his gain from his quarter, which the Prophet called greedy dogs, and they wil either have hire, or they wil soon cease their preaching and flie, and thou that canst not see those to be hirelings, but calls them innocent, art contrary to the judgement of Christ, <hi>Ezektel,</hi> and all the true Prophets, and who is con<g ref="char:EOLhyphen"/>trary to Christ is, Antichrist, and thus thou and they are revealed.</p>
+               <p>
+                  <hi>qu.</hi> 4. Why do you judg and cry down the Ministry as useless, and take up the same imployment your selves? you allow of meetings publike and private for edification, <hi>&amp;c.</hi> if then there be need for instruction, and ex<g ref="char:EOLhyphen"/>hortat on to the people, why may not good ministers be allowed to teach the people out of the Scriptures, as wel as your Teachers, and why may not we hear good ministers as wel as your Teachers?</p>
+               <p>
+                  <hi>Ans.</hi> That we cry down the ministry, is false, or that we take up the same imployment our selves; that we cry down in others, that is false also, and here thou art found a lyar and false accuser: but to judge and cry wo against hirelings, such as had no word but what they steal from their neighbour, who were proud, envious, and covetous, who had the form, but denyed the power, that this was the practise of Christ and all that he sent is plain in Scripture, and that these met together in open fields and
+<pb n="9" facs="tcp:115286:6"/> private houses, and there exhorted one another to wait on Christ thee verlasting teacher, is plain also, and thou that queries this art blind and ignorant of the Letter, and calls those good ministers who are found in the evil work, and out of the doctrine of Christ.</p>
+               <p>
+                  <hi>que.</hi> 5. Why may not godly ministers teach the people in a Steeple<g ref="char:EOLhyphen"/>house, as wel as your teachers in an Abba, a private house, or the open Field what difference between a Steeple-house, and an Abba in the strick<g ref="char:EOLhyphen"/>test sense, for which the Steeple-house is excepted against, if the one was dedicated to Idolatry, so the other also?</p>
+               <p>
+                  <hi>Ans.</hi> Godly ministers called out of the Idolls Temple, and said, God did not dwel in Temples made with hands, for which ungoaly ministers who worshipped in them, stoned to death and persecuted as you do, and in these things you count little, was the godly and ungodly seperated and are at this day; read and understand, here you are seen, and your cloak wil not cover you, and for the word (Abba) that thou takes but to carp withall, for as it was an Abba, it is thrown down, and hath been long; and not as an Abba, but as a dwelling house, where a believer abides, do we meet there, nor do we meet there more than at other places, as you do in your Steeple-houses every first day, therefore be ashamed, who accuses con<g ref="char:EOLhyphen"/>trary to that in thy conscience, and there read thy condemnation.</p>
+               <p>
+                  <hi>qu.</hi> 6. What do you mean by forms? ye cry down forms, and the use of all forms in us, and yet you allow your selves to walk by the same forms.</p>
+               <p>
+                  <hi>Ans.</hi> All forms and likenesses that are without, the same spirit and pow<g ref="char:EOLhyphen"/>er that was in them from whom you gather, the forms we cry down, and this need no meanings, but is that which was ever done by the holy men of God, who denyed all hypocrites, but that we walk in the same form, we cry down in you is false.</p>
+               <p>
+                  <hi>qu.</hi> 7. What do you think of all the godly that lived and dyed, and some of them gave their lives for the testimony of that truth which we now do profess, this thousand six hundred years last past.</p>
+               <p>
+                  <hi>Ans.</hi> Thinking we judg not by, there thou art in thy vain thoughts jud<g ref="char:EOLhyphen"/>ging of the people of God, yea God himself to be like thee, but we know &amp; are sure, that the god-like are eternally happy, who walked accordingly to the measure of God they then received, but now that light being come which hath been hid from ages, to which you are become enemies, you pro<g ref="char:EOLhyphen"/>fessing that form, but being enemies to that light and power that led them to suffer wil not save you, for did you own that light which led the godly to suffer, it would not lead you to persecure, so by your fruits you are found so be of another generation, who garnished their Sepulchers whom your athers slew, as they did.</p>
+               <pb n="10" facs="tcp:115286:7"/>
+               <p>
+                  <hi>qu.</hi> 8 Why do you judge ministers and christians for making use of the letter of the word, and practise the same things your selves?</p>
+               <p>
+                  <hi>Ans.</hi> That we judge any for making use of the Letter, is false, but for taking other mens words who are not fulfilled in them, nor speak to them, and from that, speaking a divination of their own brain, calling this the word of the Lord; for this we judge them, and the Scripture judgeth them, and that we practise such things is false; cease thy lying.</p>
+               <p>
+                  <hi>qu.</hi> 9. Why do you deal corruptly with the word, taking so much of it as is for your purpose, and deny the rest? how do you know this precept, or that promise, or prophesie, to be more infallible Scripture than another verse or verses in the same page, or chapter? why do you make the Scrip<g ref="char:EOLhyphen"/>ture here in to contradict it selfe?</p>
+               <p>
+                  <hi>Ans.</hi> Thou wicked slanderer, what part of the Scripture is it we deny, prove thy accusation; and do we deale corruptly with the word, we instance not all the Letter at once, here all may see thy tolly, and how in this thou condemns Christ and all the Apostles to deal corruptly, who instanced but so much of the letter as might prove whatthey said, or disprove the enemy, or gainsayers, and they did not make the Scripture to contradict it self.</p>
+               <p>
+                  <hi>qu.</hi> 10. Who shall expound the Scripture where it is hard to be under<g ref="char:EOLhyphen"/>stood, whether wil you allow of the Scripture to be the interpreter of it self?</p>
+               <p>
+                  <hi>Ans.</hi> The same Spirit that gave it forth, the same must open it, and to that it is not hard to be understood, which spirit thou knows not, who wants an interpreter to the Scripture, or else thou canst not understand it, for that spirit see it as it speaks, without any other meanings, but all other spirits wrests and gives meanings to it.</p>
+               <p>
+                  <hi>qu.</hi> 11. The Apostles bid try the Spirits, there is a false spirit and a true Spirit, whether wil you be willing to be tryed by the Scriptutes, whether yeebe of God or no.</p>
+               <p>
+                  <hi>Ans.</hi> He that bid try the Spirits, set down in the following words, an in<g ref="char:EOLhyphen"/>fallible rule to try all false Spirits that are in the world by, and were thou not blind thou would see it, but thou that would have us tryed by the Let<g ref="char:EOLhyphen"/>ter, who must read it, hirelings, chiefe priests, and persecutors, then should we come to such a tryall amongst you carnall priests and people, as Christ and all the holy men of God came to amongst the chiefe Priests and Pharisees, who by their carnall meanings of the Letter of the Law, condemned him who was the sum of the law, and they themselves did not walk answerably to the law, no more do you to the Letter now, but by it are judged in al your worships.</p>
+               <p>
+                  <hi>qu.</hi> 12. Where do you find BODILY WORSHIP and SPIRI<g ref="char:EOLhyphen"/>TU ALL WORSHIP seperated as if we had no bodies to serve God withall, how is it possible to have the power of the WORD
+<pb n="11" facs="tcp:115286:7"/> without the Letter of the word, or the power of godliness without the form of Godliness?</p>
+               <p>
+                  <hi>Ans.</hi> There was a people drew neer to God in the outward, and with their lips they honoured him in outward form like you, but the heart was far from him; these be denied, who contended about places and times of worship, and a people he taught to worship him in spirit and truth, who denied these forms they contended about, and were seperate from them in their outward worships, and such said, <hi>Bodily exercise profiteth little;</hi> here was a seperation of spiritual worships and worshippers from Carnals, and thou that knowes not how one can have the power of the Word without the Letter, art not of the seed of <hi>Abraham,</hi> who had the power of the word, that brought him out of his Kindred, but had no Letter; and there thy seed is manifest, who pleads for the form, but denies the power, that should bring thee out of the world.</p>
+               <p>
+                  <hi>Qu.</hi> 13. Why do you cry out against some sins, and allow of others? that which the Scripture faith is sin, you say is no sin; what is sin, and what is not?</p>
+               <p>
+                  <hi>Ans.</hi> Thou Lyar, what sins do we allow on? and what is it, that the Scripture saith is sin, which we say is no sin? and thou which knowes no: yet what sin is, makes it appear thou art out of the teachings of Christ, the new Covenant, which whosoever knows, sees the Law of God writ<g ref="char:EOLhyphen"/>ten in the heart, which Law is pure, and condemns the least sin that trans<g ref="char:EOLhyphen"/>gresseth it.</p>
+               <p>
+                  <hi>Qu.</hi> 14. How do you know there is a God, a Spirit, a Conscience, a Word, how do you know sin to be sin?</p>
+               <p>
+                  <hi>Ans.</hi> As <hi>Noah, Abraham, Iacob,</hi> and the holy men of God ever did, which none of them knew him by the Letter, but by Revelation, and thou that knows him not so, knows him not at all, but by hear-say, as the heathen do, and if there had not been a Letter, thou had never tal<g ref="char:EOLhyphen"/>ked of a God, who knows him not, but in the Letter, and thy knowledg I deny, and by the same spirit do we know all the rest, which to the Ser<g ref="char:EOLhyphen"/>pent is hid.</p>
+               <p>
+                  <hi>qu.</hi> What do you think of the ten Commandments, or Morall Law, whether is it a Rule of Life to a Christian, yea or no?</p>
+               <p>
+                  <hi>Ans.</hi> Here thou art manifest in thy thinkings, who art in the old Cove<g ref="char:EOLhyphen"/>nant, and thy own righteousness, but my covenant is the new one, and the Law in the heart, and here Christ is the rule of Life to me for ever, and my Law is spiritual and not moral.</p>
+               <pb n="12" facs="tcp:115286:8"/>
+               <p>
+                  <hi>qu.</hi> 16. What do you mean by the light within, ye bid all people hear<g ref="char:EOLhyphen"/>ken to the light within, but ye do not tell us what it is, that men may know what to take heed unto?</p>
+               <p>
+                  <hi>Ans.</hi> Here thou askest a question to manifest thy darkness, and thy self to be of the world for he was in the world, who was the light and the world knew him not, now of all the people of God who were exhorted to wait on the light, and to abide in the Light, which of them did ever ask such a question, and here thou art manifest a child of darkness, above all thou canst read of, and thou who stumbles at the light, by the light that comes from Christ art to be condemned; to that in thy conscience which is the Light, I speak, that with it thou may see thy self a child of darkness, and that is the light which shews thee thy evil deeds.</p>
+               <p>
+                  <hi>qu.</hi> What is Christ? whether God-equall with the Father, perfect God and perfect man, or only the new and regenerate part of man?</p>
+               <p>
+                  <hi>Ans.</hi> Christ is not known to the world, nor by hearsay, but through the obedience to death, and self deniall, and if thou wil hearken to the light that comes from Christ, to exercise thy conscience there in obedience to it, it wil lead the out of darkness up to Christ, from whom the Light comes, to know him and his doctrine, but til then, let the Serpent be blinde, dis<g ref="char:EOLhyphen"/>puting about the body of Christ, as once he did about the body of <hi>Moses.</hi>
+               </p>
+               <p>
+                  <hi>qu.</hi> 18. Whether wil you own the irrugular action of particular persons on your part to be of God, such as strip naked, lying in the Streets, men and women lying together, fathering it upon the Spirit?</p>
+               <p>
+                  <hi>Ans.</hi> The works of the flesh and deeds of darkness we disown, and all lustfull actions by whom ever they be committed, or whatever they pre<g ref="char:EOLhyphen"/>tend, for the Spirit of God leads to no such things; but you that call stripping naked, (being commaded of God) irregular, read <hi>Isa.</hi> 20. and shame with thy accusations, and lay thy hand upon thy mouth, and con<g ref="char:EOLhyphen"/>fess thy ignorance of the commands of God, yea of the letter it self.</p>
+               <p>
+                  <hi>qu.</hi> 19. What mean ye by perfection, if ye mean that the Saints are wholly free from sin, and wholly seated in liberty and cannot sin, as some of your writings express, nor need any more teachings from men, why then do you teach one another?</p>
+               <p>
+                  <hi>Ans.</hi> Thou <hi>Carper,</hi> why dost thou not carp at Christ, who sent out his Ministers for perfecting the Saints, and to bring them up to his measure and fulness, and the Apostles who preached and prayed that they might present every man perfect in Christ Jesus, and brought them off the Tem<g ref="char:EOLhyphen"/>ple and Synagogues, and said, how can you who are made free from sin,
+<pb n="13" facs="tcp:115286:8"/> live any longer therein; and he that is born of God sins not, neither can he sin; and he that abides in Christ sins not, and you have an Unction, and know all things, and you need not that any man teach you, but as the Annointing which you have received teacheth you of all things that are true, and in it is no lie; now if you know their meanings, you may know ours to be the same, these taught to bring up to perfection, and so here is no new thing, but to the blind Serpent.</p>
+               <p>
+                  <hi>qu.</hi> 20. What ground have you to look for Revelations in a different sense from the Apostles, when he said, <hi>the righteousness of Christ is revealed from saith to faith?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> Our Revelations are no way different from the Apostles, who (some of them) had Revelations unlooked for, and by those was taught to look for further Revelations; and herein we have unity with the A<g ref="char:EOLhyphen"/>postles, from faith to faith, and by this faith in which we live, and have union with them, do we deny thee, and thy sense, who is different from the Apostles and us, who both witness revelations, but you deny them.</p>
+               <p>
+                  <hi>qu.</hi> 21. Whether have you so repented, as that you need to repent no more, though some of you should fall away from the faith you are now in; do ye not judge it necessary that such a one manifest some repentance or change of his minde to your judgment before you wil give him again the right hand of Fellowship?</p>
+               <p>
+                  <hi>Ans.</hi> That Repentance I witness, is that which is not to bee repented of, my sin being taken away by Christ, my repentance stands sure; but thou who sayes thou hast repented, and hast committed the sin again, art turned with the dog to the vomit, and hast overthrown thy repentance, and none who knows Christ, wil give the hand of Fellowship to any such, til their repentance be establish't and manifest, and what I say of thee, I say of all, and here the whole is answered.</p>
+               <p>
+                  <hi>qu.</hi> 22. Whether have you all one Spirit, one Rule, one Light to walk by?</p>
+               <p>
+                  <hi>Ans.</hi> We who are one, do witness the unity in these things, and hereby are of one souse, heart and minde, and all who are not in this unity we de<g ref="char:EOLhyphen"/>ny, and see them to be in the Sects, opinions, and the many names; but we which are one, witness one God, and his Name one.</p>
+               <p>
+                  <hi>qu.</hi> 23. What do you think of communitie, there is much talk of by some of your frinds of dividing mens estates, and having all things common, whether do you think the Scriptures gives you any such warrant?</p>
+               <pb n="14" facs="tcp:115286:9"/>
+               <p>
+                  <hi>Ans.</hi> Thy thinkings and thy slanders I deny, which of us hast thou heard talk of dividing other mens estates, or which of us have attempted any such thing as you Priests do, who divide mens estates by force, but wit<g ref="char:EOLhyphen"/>ness him a thief, who by violence or craft takes any other mans goods; but if the power of the Gospel fall upon the rich or poor, and move them to distribute their own, thou that thinks the Scripture warrants not this art blinde.</p>
+               <p>
+                  <hi>qu.</hi> 14. What precept or example have you to subscribe your Books and papers from the mouth of the Spirit?</p>
+               <p>
+                  <hi>Ans.</hi> The holy men of God in all ages, writ as they was moved by the Holy Ghost, and we witness the same, and thou that speaks and writes not from the Spirit of Christ, speaks and writes from the spirit of Anti<g ref="char:EOLhyphen"/>christ; and this is the cause of thy rage at the mentioning of the spirit and power of Christ, which is appeared to bruise thy head.</p>
+               <p>And in thy conclusion thou sayes, we cannot expect that thou should sit still, and either say as we say, or else say nothing at all; I answer, it is true, whoever knows by what spirit thou art acted, cannot expect thee to sit stil till thy Kingdome be overthrown by the seed of the woman, now arisen to bruise thy head; and it is as true, that thy rising to contend a<g ref="char:EOLhyphen"/>against the Lamb, shall be for thy more great and sudden overthrow; therefore wo unto the wicked, it shal be ill with you, what way ever you take, who knows not God, whether you arise or sit still. Some other false accusations thou hast cast upon us; but the contrary being to plainly ma<g ref="char:EOLhyphen"/>nifest to all that know our practice and way, (who are not wilfully blinde) that I see it needless to mention them, and though they touch not us in the least, yet thy malice is no less; for which thou muit account, unless thou speedily repent.</p>
+               <closer>
+                  <signed>Iames Nayler.</signed>
+               </closer>
+            </div>
+            <trailer>FINJS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
